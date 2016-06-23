@@ -1,2 +1,2 @@
 # hello-world
-My first prj on Git
+My first project on Git.
